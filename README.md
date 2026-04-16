@@ -1,7 +1,7 @@
 # Jogo da Cobrinha
 
 Este repositório contém uma implementação clássica do jogo da Cobrinha (Snake) desenvolvida na linguagem C, projetada para ser executada no terminal/console do Windows. O jogo foi desenvolvido para rodar diretamente no prompt de comando, utilizando a biblioteca `conio.h` para capturar as teclas em tempo real sem a necessidade de pressionar "Enter" e `windows.h` para gerenciar a lógica de renderização do console.
-
+![Demonstração do Jogo](Cobrinha%20GIF.gif)
 
 ## Características implementadas:
 - Movimentação bidirecional contínua da cobra.
