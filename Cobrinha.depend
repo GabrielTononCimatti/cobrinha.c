@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1683063756 source:d:\users\gabriel\documents\programas\cobrinha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1683063756 source:d:\users\gabriel\documents\programas\c\cobrinha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
